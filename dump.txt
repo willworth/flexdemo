@@ -1,0 +1,13 @@
+<div id="leftmain" class="box">
+                <h3> leftmain</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihil suscipit totam consectetur quis
+                    commodi eius nobis debitis optio. Deserunt esse omnis impedit minus voluptatibus facere perferendis
+                    repellat veniam adipisci.</p>
+
+            </div>
+            <div id="rightmain" class="box">
+                <h3> rightmain</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihil suscipit totam consectetur quis
+                    commodi eius nobis debitis optio. Deserunt esse omnis impedit minus voluptatibus facere perferendis
+                    repellat veniam adipisci.</p>
+            </div>
